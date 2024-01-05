@@ -41,10 +41,10 @@ src="https://img.shields.io/badge/Follow%20@%20Sarmad%20Tufail-black?style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sarmad505"><img src="https://github-readme-stats.vercel.app/api?username=sarmad505&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="sarmad's GitHub stats" /></a>
+### <a href="http://www.github.com/sarmad505"><img src="https://github-readme-stats.vercel.app/api?username=sarmad505&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="sarmad's GitHub stats" /></a>
 
-<a href="http://www.github.com/sarmad505"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarmad505&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### <a href="http://www.github.com/sarmad505"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarmad505&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/sarmad505"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sarmad505&theme=react-dark" alt="GitHub Commits Graph" /></a>
+### <a href="http://www.github.com/sarmad505"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sarmad505&theme=react-dark" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/sarmad505" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarmad505&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### <a href="https://github.com/sarmad505" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarmad505&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
